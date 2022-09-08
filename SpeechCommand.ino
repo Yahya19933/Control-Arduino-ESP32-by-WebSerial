@@ -17,7 +17,7 @@ void setup()
   myservo.attach(servoPin);
 
   myservo.write(90); // center the servo
-  Serial.println("Written By Yahya AL-Najjar");
+  Serial.println("© Copyright 2022 - Written By Anasmb");
   Serial.println("Begin");
 }
 
@@ -49,3 +49,4 @@ void loop()
     }
   }
 }
+//   © Copyright 2022 - Written By Anasmb
